@@ -79,8 +79,7 @@ public class Main {
         return max;
     }
 
-    private
-    static double calculateAverage(int[][] matrix) {
+    private static double calculateAverage(int[][] matrix) {
         int sum = 0;
         int count = 0;
         for (int[] row : matrix) {
