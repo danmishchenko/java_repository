@@ -1,4 +1,4 @@
 package edu.dp.sau.danmishchenko.lab3.model;
 
-public class Faculty {
+public class Faculty extends Entity<Department> {
 }

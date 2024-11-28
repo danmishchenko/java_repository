@@ -1,4 +1,4 @@
 package edu.dp.sau.danmishchenko.lab3.model;
 
-public class Group {
+public class Group extends Entity<Student> {
 }
